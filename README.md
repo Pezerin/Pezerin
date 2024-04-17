@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1>Mikul Shah<br/>
 
-<!--
-**Pezerin/Pezerin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>CodonConverter Chrome Extension (HTML & JS)</b>
+  - [CodonConverter](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>RecipeManager (Python & SQL)</b>
+  - [RecipeManager](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Contact Info:</h2>
+
+[<img align="left" alt="MikulShah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="MikulShah | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+
+[linkedin]: https://linkedin.com/in/mikul-shah
+[gmail]: mailto:mikulshah2008@gmail.com
