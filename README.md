@@ -3,9 +3,9 @@
 <h2>Projects:</h2>
 
 - <b>CodonConverter Chrome Extension (HTML & JS)</b>
-  - [CodonConverter](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [CodonConverter](https://github.com/Pezerin/CodonConverter)
 - <b>RecipeManager (Python & SQL)</b>
-  - [RecipeManager](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [RecipeManager](https://github.com/Pezerin/RecipeManager)
 
 <h2>Contact Info:</h2>
 
