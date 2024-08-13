@@ -2,8 +2,12 @@
 
 <h2>Projects:</h2>
 
-- <b>CodonConverter Chrome Extension (HTML & JS)</b>
-  - [CodonConverter](https://github.com/Pezerin/CodonConverter)
+- <b>To-Do List (HTML, CSS, JS)</b>
+  - [To-Do List](https://github.com/Pezerin/to-do-list)
+- <b>Calculator (HTML, CSS, JS)</b>
+  - [Calculator](https://github.com/Pezerin/odin-calculator)
+- <b>Tic-Tac-Toe (HTML, CSS, JS)</b>
+  - [Tic-Tac-Toe](https://github.com/Pezerin/tic-tac-toe)
 - <b>RecipeManager (Python & SQL)</b>
   - [RecipeManager](https://github.com/Pezerin/RecipeManager)
 
