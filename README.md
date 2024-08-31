@@ -4,6 +4,8 @@
 
 - <b>To-Do List (HTML, CSS, JS)</b>
   - [To-Do List](https://github.com/Pezerin/to-do-list)
+- <b>Weather App (HTML, CSS, JS, and API Usage)</b>
+  - [Weather App](https://github.com/Pezerin/weather-app)
 - <b>Calculator (HTML, CSS, JS)</b>
   - [Calculator](https://github.com/Pezerin/odin-calculator)
 - <b>Tic-Tac-Toe (HTML, CSS, JS)</b>
